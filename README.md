@@ -107,5 +107,15 @@ Tratamento de erro amigável da API ("Não consegui analisar agora. Tente novame
 
 ## Os testes registrados (vaga com CV pouco compatível e CV bastante compatível em .docx) serviram para validar que a análise funciona nos dois cenários: baixo e alto match. E funções de entrada, tanto por texto quanto por upload, assim como a saída por .docx, funcionam corretamente.
 
+<img width="1280" height="1800" alt="1" src="https://github.com/user-attachments/assets/26922e43-cd5d-4814-a77f-b1f2cd0ece12" />
+<img width="1080" height="792" alt="2" src="https://github.com/user-attachments/assets/ff5e6bf9-f724-41a1-a9c5-905217136485" />
+<img width="1067" height="778" alt="3" src="https://github.com/user-attachments/assets/e950fa8c-5884-466c-ad14-939ca0c7368d" />
+<img width="1073" height="828" alt="4" src="https://github.com/user-attachments/assets/f6240fe6-2e1f-4efe-8de4-a60aeab2189f" />
+<img width="982" height="749" alt="5" src="https://github.com/user-attachments/assets/256f8e7b-673f-455c-a019-5106ffe84e2d" />
+<img width="1058" height="763" alt="6" src="https://github.com/user-attachments/assets/9d794e0f-c85e-471a-a936-ae20706127ed" />
+<img width="1021" height="825" alt="7" src="https://github.com/user-attachments/assets/1f4a18b1-66aa-43f2-a653-06ba3654ac79" />
+<img width="1040" height="813" alt="8" src="https://github.com/user-attachments/assets/3426c1b6-79ec-48d2-b743-761f7f8e8afe" />
+<img width="972" height="733" alt="9" src="https://github.com/user-attachments/assets/a5a75bf7-9eb3-4cd6-a272-8221119a27e7" />
+
 #### publicado em:
 https://vaga-viva-bot.lovable.app
